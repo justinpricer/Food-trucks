@@ -36,7 +36,7 @@ If there is one thing that has really blown up in Austin in the last 10 years is
 
 # Usage
 
-A data base that generates food truck locations in ATX. Easily searchable based on type of food truck. Provides location by address and phone number. Allows user to input data and share information not listed with others
+A database that generates food truck locations in ATX. Easily searchable based on type of food truck. Provides location by address and phone number. Allows user to input data and share information not listed with others
 
 
 
@@ -67,5 +67,5 @@ Roger Lara
 https://github.com/rolara57
 
 OTHERS:
-Spiecial Thanks to Chris Deleon for art work
+Special Thanks to Chris Deleon for art work
 
